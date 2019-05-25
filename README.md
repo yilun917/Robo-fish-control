@@ -10,6 +10,13 @@ The other version for Raspberry Pi uses Python.
 # Supported Python Version
 Python 3
 
+# What you need
+A Raspberry Pi or Arduino
+A RC transmitter
+A RC controller
+Several servos
+RPi.GPIO libraey instsalled on Raspberry Pi
+
 # How to Use
 The program is designed for Arduino/Raspberry Pi. A corresponding RC transmitter is need to connect to the controller on specified pin (written in code comments) to read in the signal. And then process through the controller to output signal to the servos. The connection between servo and controller is also included in the code comment.
 
