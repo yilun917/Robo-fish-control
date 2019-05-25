@@ -9,4 +9,4 @@ The other version for Raspberry Pi uses Python.
 
 
 # License
-The contents of this repository are covered under the MIT ./Liscense.
+The contents of this repository are covered under the MIT ./LISCENSE.
