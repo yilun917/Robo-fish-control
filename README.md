@@ -8,5 +8,5 @@ This github repository contains the controlling code for the controller of the r
 The other version for Raspberry Pi uses Python.
 
 
-# Liscence
+# License
 The contents of this repository are covered under the MIT License.
