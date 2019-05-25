@@ -6,3 +6,7 @@ that observation of marine creatures can be conducted without disturbance.
 
 This github repository contains the controlling code for the controller of the robotic fish. One version is for the Arduino which uses C++.
 The other version for Raspberry Pi uses Python.
+
+
+# Liscence
+The contents of this repository are covered under the MIT License.
