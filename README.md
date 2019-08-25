@@ -28,4 +28,4 @@ The program is designed for Arduino/Raspberry Pi. A corresponding RC transmitter
 The raspberry pi does not support hardware PWM as I know. Thus, without external chips, the controlling of servo is very poor.
 
 # License
-The contents of this repository are covered under the MIT [Liscense](./LISCENSE).
+The contents of this repository are covered under the [MIT Liscense](./LISCENSE).
