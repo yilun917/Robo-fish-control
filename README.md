@@ -1,4 +1,4 @@
-# Robo-fish-control
+# Robot Fish Control Program
 This is an controlling program for our robotic fish, which includes read of RC signals and control of servos using Raspberry Pi.
 
 The whole project is aimed at designing, manufracturing and testing a robotic fish used for underwater exploration with concealment. So 
