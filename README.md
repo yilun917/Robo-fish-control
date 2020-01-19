@@ -5,7 +5,7 @@ The whole project is aimed at designing, manufracturing and testing a robotic fi
 that observation of marine creatures can be conducted without disturbance.
 
 This github repository contains the controlling code for the controller of the robotic fish. One version is for the Arduino which uses C++.
-The other version for Raspberry Pi uses Python.
+The other version for Raspberry Pi uses Python 3.
 
 # Supported Python Version
 Python 3
