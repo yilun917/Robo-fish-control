@@ -25,7 +25,7 @@ Python 3
 The program is designed for Arduino/Raspberry Pi. A corresponding RC transmitter is need to connect to the controller on specified pin (written in code comments) to read in the signal. And then process through the controller to output signal to the servos. The connection between servo and controller is also included in the code comment.
 
 # Issues
-The raspberry pi does not support hardware PWM as I know. Thus, without external chips, the controlling of servo is very poor.
+The raspberry pi does not support hardware PWM. Thus, without external chips, the controlling of servo is very poor.
 
 # License
 The contents of this repository are covered under the [MIT Liscense](./LISCENSE).
