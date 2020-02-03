@@ -8,7 +8,7 @@ This github repository contains the controlling code for the controller of the r
 The other version for Raspberry Pi uses Python 3.
 
 # Supported Python Version
-Python 3
+Python 3.7
 
 # What you need
 * A Raspberry Pi or Arduino
