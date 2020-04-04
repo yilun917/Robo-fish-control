@@ -13,6 +13,8 @@ Python 3.7
 # What you need
 * A Raspberry Pi or Arduino
 
+* Wires
+
 * A RC transmitter
 
 * A RC controller
