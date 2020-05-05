@@ -137,7 +137,8 @@ GPIO.add_event_detect(RC_Channel3, GPIO.BOTH, callback=calc_channel3)
 # Main running loop
 while True:  # execute loop forever
 
-    print("RC_1", RC_Signal[RC_1])  # print the signal for error checking
+    # print the signal for error checking
+    print("RC_1", RC_Signal[RC_1])  
     print("RC_2", RC_Signal[RC_2])
     print("RC_3", RC_Signal[RC_3])
     print("Body Servo Angle Duty is:", body_angle_duty)
