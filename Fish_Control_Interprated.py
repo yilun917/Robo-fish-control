@@ -2,6 +2,7 @@
 # Channel 1 is the Throttle controls tail movement, RC signal goes to BCM 17 and servo connects at BCM 12
 # Channel 2 is the AILE controls body movement, RC signal goes to BCM 27 and servo connects at BCM 18
 # Channel 3 is the ELEV controls tail movement speed, RC signal goes to BCM 22
+# needed library to communicate with controller GPIO
 import RPi.GPIO as GPIO
 import time
 
